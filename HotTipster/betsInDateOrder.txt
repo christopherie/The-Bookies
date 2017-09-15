@@ -1,0 +1,216 @@
+Course: Bangor
+Horse: Asia
+Date: 2016,01,23
+Amount: 10
+Result: False
+
+Course: Ascot
+Horse: Baywater
+Date: 2016,02,04
+Amount: 23.65
+Result: True
+
+Course: Towcester
+Horse: Billie
+Date: 2016,03,12
+Amount: 50
+Result: False
+
+Course: Punchestown
+Horse: Billie
+Date: 2016,04,25
+Amount: 13.45
+Result: True
+
+Course: Towcester
+Horse: Filo
+Date: 2016,05,08
+Amount: 16.55
+Result: True
+
+Course: Punchestown
+Horse: Baywater
+Date: 2016,05,23
+Amount: 13.71
+Result: True
+
+Course: Chester
+Horse: Baywater
+Date: 2016,08,14
+Amount: 10
+Result: False
+
+Course: Kelso
+Horse: Filo
+Date: 2016,09,13
+Amount: 43.21
+Result: True
+
+Course: Kelso
+Horse: Baby
+Date: 2016,09,18
+Amount: 10
+Result: False
+
+Course: Goodwood
+Horse: Asia
+Date: 2016,10,05
+Amount: 34.12
+Result: True
+
+Course: Ayr
+Horse: Silly
+Date: 2016,11,03
+Amount: 25
+Result: False
+
+Course: Dundalk
+Horse: Baywater
+Date: 2016,11,09
+Amount: 20
+Result: False
+
+Course: Haydock
+Horse: Filo
+Date: 2016,11,12
+Amount: 87.00
+Result: True
+
+Course: Punchestown
+Horse: Filo
+Date: 2016,11,15
+Amount: 10.00
+Result: False
+
+Course: Sandown
+Horse: Bob
+Date: 2016,11,17
+Amount: 20
+Result: False
+
+Course: Cork
+Horse: Filo
+Date: 2016,11,30
+Amount: 20
+Result: False
+
+Course: Fairyhouse
+Horse: Zulu
+Date: 2016,12,02
+Amount: 65.75
+Result: True
+
+Course: Punchestown
+Horse: Zane
+Date: 2016,12,22
+Amount: 122.52
+Result: True
+
+Course: Bangor
+Horse: Baywater
+Date: 2016,12,22
+Amount: 30
+Result: False
+
+Course: Punchestown
+Horse: Filo
+Date: 2016,12,22
+Amount: 11.50
+Result: True
+
+Course: Perth
+Horse: Filo
+Date: 2017,01,20
+Amount: 15
+Result: False
+
+Course: Kilbeggan
+Horse: Billie
+Date: 2017,03,03
+Amount: 20
+Result: False
+
+Course: Ayr
+Horse: Zulu
+Date: 2017,03,11
+Amount: 12.05
+Result: True
+
+Course: Fairyhouse
+Horse: Billie
+Date: 2017,03,11
+Amount: 55.50
+Result: True
+
+Course: Towcester
+Horse: Filo
+Date: 2017,05,01
+Amount: 104.33
+Result: True
+
+Course: Aintree
+Horse: Billie
+Date: 2017,05,12
+Amount: 11.58
+Result: True
+
+Course: Ayr
+Horse: Billie
+Date: 2017,05,22
+Amount: 11.5
+Result: True
+
+Course: Ascot
+Horse: Filo
+Date: 2017,06,21
+Amount: 25
+Result: False
+
+Course: Ascot
+Horse: Filo
+Date: 2017,06,23
+Amount: 30
+Result: False
+
+Course: Ascot
+Horse: Filo
+Date: 2017,06,23
+Amount: 374.27
+Result: True
+
+Course: Punchestown
+Horse: Billie
+Date: 2017,07,05
+Amount: 35
+Result: False
+
+Course: Kelso
+Horse: Billie
+Date: 2017,08,02
+Amount: 30
+Result: False
+
+Course: Sandown
+Horse: Billie
+Date: 2017,08,07
+Amount: 25.00
+Result: False
+
+Course: Goodwood
+Horse: Filo
+Date: 2017,10,07
+Amount: 525.74
+Result: True
+
+Course: York
+Horse: Haymaker
+Date: 2017,11,11
+Amount: 101.25
+Result: True
+
+Course: Doncaster
+Horse: Filo
+Date: 2017,12,02
+Amount: 10
+Result: False
+

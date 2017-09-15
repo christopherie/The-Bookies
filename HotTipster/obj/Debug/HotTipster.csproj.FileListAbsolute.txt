@@ -1,0 +1,6 @@
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\HotTipster\HotTipster\bin\Debug\HotTipster.exe.config
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\HotTipster\HotTipster\bin\Debug\HotTipster.exe
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\HotTipster\HotTipster\bin\Debug\HotTipster.pdb
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\HotTipster\HotTipster\obj\Debug\HotTipster.csprojResolveAssemblyReference.cache
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\HotTipster\HotTipster\obj\Debug\HotTipster.exe
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\HotTipster\HotTipster\obj\Debug\HotTipster.pdb

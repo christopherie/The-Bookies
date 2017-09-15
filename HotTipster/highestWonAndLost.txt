@@ -1,0 +1,2 @@
+Highest amount lost on a bet is 50
+Highest amount won on a bet is 525.74
